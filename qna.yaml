@@ -1,0 +1,138 @@
+version: 3
+domain: enterprise
+created_by: cesarbarron
+seed_examples:
+  - context: |
+      **Gebesa** is a Mexican company specializing in the design, manufacturing, and distribution of office furniture.
+      Founded in 1973 by Boyardo Salmón, the company has grown over five decades to become a leader in the office furniture industry.
+      The name "Gebesa" combines the initials of Salmón's wife, Georgina, with his own full name, Boyardo Eugenio Salmón Acosta.
+      Gebesa offers a wide range of products, including modular systems, adjustable-height workstations, seating, storage solutions, and office accessories.
+      The company emphasizes innovative and functional design, flexible manufacturing, and effective supply chain management to provide comprehensive solutions tailored to clients' specific needs.
+      With a strong presence in Mexico, Gebesa has expanded its reach to international markets, exporting approximately 65% of its production to countries such as the United States, Canada, and parts of Europe and Latin America.
+      The company has collaborated with notable clients, including Netflix, Bose, and Samsung.
+      Gebesa's commitment to quality is reflected in its certifications, including ISO 9001, BIFMA (Business and Institutional Furniture Manufacturers Association) membership, and GREENGUARD certification, which ensures low chemical emissions from products.
+      The company's headquarters are located in Gómez Palacio, Durango, Mexico, with additional showrooms and offices in cities such as Mexico City, Monterrey, Querétaro, and Torreón.
+    questions_and_answers:
+      - question: |
+          When Gebesa was founded?
+        answer: |
+          Gebesa was founded in 1973 by Boyardo Salmón in Gómez Palacio, Durango México.
+      - question: |
+          What the name Gebesa stands for?
+        answer: |
+          The name "Gebesa" is a combination of the initials of Boyardo Salmón's wife, Georgina, with his own full name, Boyardo Eugenio Salmón Acosta
+      - question: |
+          What products does Gebesa offers?
+        answer: |
+          Gebesa offers a wide range of products, including modular systems, adjustable-height workstations, seating, storage solutions, and office accessories.
+      - question: |
+          What are some notable Gebesa's clients?
+        answer: |
+          Companies like Netflix, Bose, and Samsung.
+      - question: |
+          Where are located the Gebesa´s headquarters?
+        answer: |
+          Gebesa's headquarters are located in Gómez Palacio, Durango, Mexico.
+  - context: |
+      Among the products Gebesa offers are Modulares including lines such as G-Connect, Ascend, Urban, G-Bench, Start, venti, Ika y Lounege-Break.
+      Gebesa offers Mamparas, the mampara's lines are Elite, Optimus, Synergy y Gallery Panels.
+      The Mobiliario Lines of Gebesa are Filo, Vento, Contempo, Kenza, Req, Cyber, Spazio, Volt y Basic.
+      The lines of the metalic products are Archivo Móvil, Nova, Concord, Global y Almacenaje.
+      The Accesories lines including Reach and Accesories.
+      The Sileria's lines comprising Ejecutivas, Operativas, de visita, Multiusos, Gamer, Sofás y Lounge.
+    questions_and_answers:
+      - question: |
+          What are the Modulares products lines offered by Gebesa?
+        answer: |
+          MODULARES: Including lines like G-Connect, Ascend, Urban, G-Bench, Start, venti, Ika y Lounege-Break.
+      - question: |
+          What are the Mamparas products lines by Gebesa?
+        answer: |
+          MAMPARAS: Including lines such as Elite, Optimus, Synergy y Gallery Panels.
+      - question: |
+          What are Mobiliario Lines of Gebesa?
+        answer: |
+          MOBILIARIO: Comprising these lines Filo, Vento, Contempo, Kenza, Req, Cyber, Spazio, Volt y Basic.
+      - question: |
+          What are Metalic product Lines by Gebesa?
+        answer: |
+          METALICOS: Metal furniture available in the following lines Archivo Móvil, Nova, Concord, Global y Almacenaje.
+  - context: |
+      The G-Connect line provides limitless configuration options for crafting dynamic and elegant designs, seamlessly integrating technology with modern style.
+      Its sleek and unique design makes it an excellent choice for contemporary workplaces.
+      G-Connect Level features a smart, versatile design to meet various needs, offering cable access, modern finishes, and robust materials. It is ideal for collaborative workspaces.
+      The delta-leg desk introduces a contemporary flair to break routine office aesthetics. It merges function, strength, visual lightness, and sophistication, delivering ample space, storage, and a distinct design. This marks the next step in design evolution.
+      With asymmetrical shapes and advanced technology, G-Connect redefines office furniture categories, inspiring modernity and sparking creative ideas.
+      The finishes Gebesa offers for the G-Connect line are:
+      **For surfaces, the available finishes are:
+      **Wood Veneer: Colors include Walnut, Tamarind, Wengue, Cherry, and Silver Apricot.
+      **Low Pressure Laminate: Colors include Black, Wengue, Silver, White, Maple, Anigre, Oxford, Toast Walnut, Arctic Skyline, Bay Sand, Storm Gray, and Spanish Oak.
+      **For furniture bodies:
+      **Metallic: Colors include Black, White, Textured Aluminum, and Gray.
+      **MDF: Colors include White, Indigo, Red, Orange, Green, and Chalkboard.
+    questions_and_answers:
+      - question: |
+          Tell me some attributes of the line G-Connect by Gebesa
+        answer: |
+          The G-Connect line provides limitless configuration options for crafting dynamic and elegant designs, seamlessly integrating technology with modern style.
+          G-Connect Level features a smart, versatile design to meet various needs, offering cable access, modern finishes, and robust materials. It is ideal for collaborative workspaces.
+      - question: |
+          Tell me something about delta-leg desk by Gebesa
+        answer: |
+          The delta-leg desk introduces a contemporary flair to break routine office aesthetics.
+          It merges function, strength, visual lightness, and sophistication, delivering ample space, storage, and a distinct design.
+      - question: |
+          What are the G-connect line colors for surfaces wood veneer?
+        answer: |
+          The Colors that Gebesa offers for the G-Connect line surfaces wood veneer includes Walnut, Tamarind, Wengue, Cherry, and Silver Apricot.
+      - question: |
+          What are the G-connect line colors for surfaces Low Pressure Laminate?
+        answer: |
+          The Colors that Gebesa offers for the G-Connect line surfaces Low Pressure Laminate includes Black, Wengue, Silver, White, Maple, Anigre, Oxford, Toast Walnut, Arctic Skyline, Bay Sand, Storm Gray, and Spanish Oak.
+  - context: |
+      The freigh polices at Gebesa are the followed FOB Destination, freight included on orders over $5k net (Orders under $5k net will require a freight quote).
+      The preferred Method to Send PO is send an email to the address orders@gebesa.com.
+      To place a Purchase Order a deposit Required, Our standard terms (on approved credit) is 2% 10, net 30. Credit limits, special /custom products, etc. may still require deposits or other special terms.
+    questions_and_answers:
+      - question: |
+          What is the freigh policies?
+        answer: |
+          Freight: FOB Destination, freight included on orders over $5k net (Orders under $5k net will require a freight quote).
+      - question: |
+          What is referred Method to place a purchase order?
+        answer: |
+          The preferred Method to Send PO is send an email to the address orders@gebesa.com.
+      - question: |
+          Is required a deposit in order to place a PO?
+        answer: |
+          Yes, our standard terms (on approved credit) is 2% 10.
+  - context: |
+      The human capital ath Gebesa is the most valuable asset.
+      Gebesa has an experienced Information Technology staff, the members and roles of the IT staff is as follow:
+      **Cesar Barron: Chief Technology Officer, email: cesar.barron@gebesa.com.
+      **Luis Belmontes: Telecommunications and hardware leader, email: luis.belmontes@gebesa.com.
+      **Samuel Barron: FullStack Developer Senior, email: samuel.barron@gebesa.com.
+      **Armando Garcia: Helpdesk Leader, email: armando.garcia@gebesa.com.
+      **Marco Esquivel: Developer middle, email: marco.esquivel@gebesa.com.
+      **Adrian Bilbao: Telecommunications and hardware Jr, email: adrian.bilbao@gebesa.com.
+    questions_and_answers:
+      - question: |
+          Who is the CTO at Gebesa?
+        answer: |
+          The CTO at Gebesa is Cesar Barron.
+      - question: |
+          What is the role of Armando Garcia at Gebesa?
+        answer: |
+          Armando Garcia is the helpdesk leader at gebesa.
+      - question: |
+          What is the email of Luis Belmontes at Gebesa?
+        answer: |
+          The Luis Belmonte's mail is luis.belmontes@gebesa.com.
+document_outline: |
+  Information about the Company Gebesa including the
+  history, characteristics, and products.
+document:
+  repo: https://github.com/cttox/ilab_knowledge
+  commit: daba59f4a790ce79bc7ec7e0670906d0be9879b1
+  patterns:
+    - GEBESA.md
